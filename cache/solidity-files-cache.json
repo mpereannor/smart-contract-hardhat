@@ -1,0 +1,39 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\loki\\Desktop\\apps\\first-hardhat\\contracts\\MyFirstContract.sol": {
+      "lastModificationDate": 1631837646487,
+      "contentHash": "a180dc4dbd1216a7db0c428f397bc869",
+      "sourceName": "contracts/MyFirstContract.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "=0.7.3"
+      ],
+      "artifacts": [
+        "MyFirstContract"
+      ]
+    }
+  }
+}
